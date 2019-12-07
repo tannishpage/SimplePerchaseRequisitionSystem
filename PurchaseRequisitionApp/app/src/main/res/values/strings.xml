@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PurchaseRequisitionApp</string>
+
+    <string name="add_btn">Create New</string>
+
+    <!-- Strings for activity_page_1.xml-->
+    <string name="name_label">Name</string>
+    <string name="ID_label">ID Number</string>
+    <string name="department_label">Department</string>
+    <string name="date_label">Date of Request</string>
+    <string name="next_btn">Next</string>
+</resources>
